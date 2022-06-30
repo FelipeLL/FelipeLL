@@ -1,16 +1,36 @@
-### Hi, welcome to my profile! 👋
+## Hi, welcome to my profile! 👋
 
-<!--
-**FelipeLL/FelipeLL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Systems Engineer at [UDEC](https://www.ucundinamarca.edu.co/)
 
-Here are some ideas to get you started:
+[![](https://img.shields.io/badge/LinkedIn-jfelipeladino-blue)](https://www.linkedin.com/in/jfelipeladino/)
+[![](https://img.shields.io/badge/Gmail-jfelipeladiino%40gmail.com-red)](mailto:jfelipeladiino@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
+<div>
+ <p>
+I have ability adjustment, proactivity, creativity, teamwork and application of the acquired knowledge. Also, I have excellent learning faculty for the use of the best practices and new characteristics of the technologies that I use.
+</p>
+</div>
+
+```javascript
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [ HTML, CSS, Javascript],
+   technologies: {
+      frontEnd: {
+         js: ["React"],
+         css: ["Bootstrap"]
+         
+      },
+      backEnd: {
+         js: ["Node", "Express"],
+         
+      },
+      databases: ["MongoDB", "mySQL", "PostgreSQL"],
+   
+   },
+   currentOccupation: ["Open for job opportunities"],
+   challenge: "improve every day",
+   
+};
+```
