@@ -29,7 +29,7 @@ const aboutMe = {
       databases: ["MongoDB", "mySQL", "PostgreSQL"],
    
    },
-   currentOccupation: ["Open for job opportunities"],
+   currentOccupation: ["Developer"],
    challenge: "improve every day",
    
 };
