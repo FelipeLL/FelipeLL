@@ -18,12 +18,12 @@ const aboutMe = {
    code: [ HTML, CSS, Javascript],
    technologies: {
       frontEnd: {
-         js: ["React"],
+         js: ["React", "Angular"],
          css: ["Bootstrap", "Material UI"]
          
       },
       backEnd: {
-         js: ["Node", "Express"],
+         js: ["Node", "Express", "Nest"],
          
       },
       databases: ["MongoDB", "mySQL", "PostgreSQL"],
