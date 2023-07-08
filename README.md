@@ -18,8 +18,8 @@ const aboutMe = {
    code: [ HTML, CSS, Javascript],
    technologies: {
       frontEnd: {
-         js: ["React", "Angular"],
-         css: ["Bootstrap", "Material UI"]
+         js: ["React", "Vue", "Angular"],
+         css: ["Bootstrap", "Material UI", "Tailwind"]
          
       },
       backEnd: {
